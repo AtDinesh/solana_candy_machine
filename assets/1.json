@@ -2,11 +2,11 @@
     "name": "Jokers Class #2",
     "symbol": "JKC",
     "description": "We're all mad here...",
-    "image": "1.jpg",
+    "image": "1.png",
     "attributes": [
         {
             "trait_type": "accessory",
-            "value": "Pike Ace Card"
+            "value": "cards_back"
         },
         {
             "trait_type": "origin",
@@ -24,8 +24,8 @@
     "properties": {
         "files": [
             {
-                "uri": "1.jpg",
-                "type": "image/jpg"
+                "uri": "1.png",
+                "type": "image/png"
             }
         ]
     }

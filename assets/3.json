@@ -2,7 +2,7 @@
     "name": "Jokers Class #4",
     "symbol": "JKC",
     "description": "We're all mad here...",
-    "image": "3.jpg",
+    "image": "3.png",
     "attributes": [
         {
             "trait_type": "accessory",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "background",
-            "value": "white"
+            "value": "transparent"
         },
         {
             "trait_type": "action",
@@ -24,8 +24,8 @@
     "properties": {
         "files": [
             {
-                "uri": "3.jpg",
-                "type": "image/jpg"
+                "uri": "3.png",
+                "type": "image/png"
             }
         ]
     }
