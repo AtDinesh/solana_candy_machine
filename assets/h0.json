@@ -1,0 +1,32 @@
+{
+    "name": "Jokers Class #2",
+    "symbol": "JKC",
+    "description": "We're all mad here...",
+    "image": "h0.jpg",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "cards_back"
+        },
+        {
+            "trait_type": "origin",
+            "value": "hxh"
+        },
+        {
+            "trait_type": "background",
+            "value": "white card"
+        },
+        {
+            "trait_type": "action",
+            "value": "sitting"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "h0.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}
