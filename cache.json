@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "CgAajBuhy2k8EtqfkBPTmuAFK8HSodkFvRN6ump5kqiQ",
+    "candyMachineCreator": "8X7tzdPRTb47im4b4G6ZuEcF2ENKgmebz8BPFPvH7GkM",
+    "collectionMint": "9CET5THDCRsNYs4YHSFoyGgP7UmUMtX2fC2D1uCc8tTk"
+  },
+  "items": {
+    "-1": {
+      "name": "Jokers Class Collection",
+      "image_hash": "78fd3f124c9d17320c17316d747b1138b7e331ed9c3ab4c84388b64ec991f146",
+      "image_link": "https://arweave.net/prgfhEfvjeXCD7BJnWIJ9m70f3zpsybKeV28tBzsoVY?ext=png",
+      "metadata_hash": "2139b771ece55e55062e8e78e6499f0323342d0e3bfd47b71d77f333482669be",
+      "metadata_link": "https://arweave.net/-XDxLsl12nJJazdSGE8VFQfULF0TJJFG7iu5JU034zg",
+      "onChain": true
+    },
+    "0": {
+      "name": "Jokers Class #1",
+      "image_hash": "a54d5cf7a895e756d68430e59765054ec5e9bd66254d94d09c6bb5846c90ab1a",
+      "image_link": "https://arweave.net/kU7yjbAsDLZkr4tZK25MFFgvEMXFqQfGAn5CubeCrAU?ext=png",
+      "metadata_hash": "7e5a54688dc945f4a8c7e5f3bf3028838e318ff28d884a172ddb49db8d22a855",
+      "metadata_link": "https://arweave.net/NdaGNisXHOzFsXUEahyCJ_dkGfwF-LP3mqY7soIak9s",
+      "onChain": true
+    },
+    "1": {
+      "name": "Jokers Class #2",
+      "image_hash": "304daadecff16dcd589b8ed33fe4f028f618050f9e454e120300b03bb3a51c14",
+      "image_link": "https://arweave.net/_1Je1-fTx67N8VRoanhGTny5eSknoH-IXgCf1k3Im1U?ext=png",
+      "metadata_hash": "f4c82274183a4aa4b6fa582d82493bb28827d155fd1875486635d58ee5d75b93",
+      "metadata_link": "https://arweave.net/-ecR5v87VQ3MDD_-vzXZaGdESnoLknF6UbSIgdp5sIA",
+      "onChain": true
+    },
+    "2": {
+      "name": "Jokers Class #3",
+      "image_hash": "44337ca73e589d0d7e76c04e0ead4bb195926923125e82485abfed96034fb868",
+      "image_link": "https://arweave.net/pSLygTYxZUkvO-x0EvU4C5mwYVugRmNg_YXPV6OxwSQ?ext=png",
+      "metadata_hash": "633db1cb9257533e3cfcb8e487de00a38e9614d369a32e55912ffcaf7294e8f5",
+      "metadata_link": "https://arweave.net/3ffS17St4-oM_tYQA6eBC7Hd4tknoFbyni3HOUswvEs",
+      "onChain": true
+    },
+    "3": {
+      "name": "Jokers Class #4",
+      "image_hash": "42a87607a015885f5e1903388565dd2802c6c19e6b059d44e0a37f8cfc752db0",
+      "image_link": "https://arweave.net/nwfusqnTj0_9GXITqlzxGl_cALqXUlFpWYW0LaM-JqY?ext=png",
+      "metadata_hash": "ec47d139e5e2458774feb07000dc58e66bc98a3fbf61f3796961ba27715ad725",
+      "metadata_link": "https://arweave.net/m4N7LxVLa9EV_lUMoSsEEv8fH-uzGOwgPs4kmXhZqJM",
+      "onChain": true
+    },
+    "4": {
+      "name": "Jokers Class #5",
+      "image_hash": "e8df16625f447ce635388848fe07b22abd502ee24ae61c43ba1076774afdf17e",
+      "image_link": "https://arweave.net/v2bxX4j7NfHSY6pLJ1_gsw2SHgCy6XfZdCn3fJUyCW4?ext=png",
+      "metadata_hash": "908c5fa75397820cc5f0e2a430ecb59912ffc0df8161483e54478de55fd165bf",
+      "metadata_link": "https://arweave.net/fOeVbC2s0apQbx_MO74-rTOOwObVs-szBV6SvoMU0Rg",
+      "onChain": true
+    },
+    "5": {
+      "name": "Jokers Class #6",
+      "image_hash": "ca7621d10eee573aafb1c42c54df7955e5ec350d374790481fd1f4bb678cf6b0",
+      "image_link": "https://arweave.net/OcDtHqo3zlpLWXFlIScN7ikJxjXWeIPhihde0A0gWoI?ext=png",
+      "metadata_hash": "891c703da14eab6719f8f15e0fcedcaed42a38f422808134335f9228f9fa74bb",
+      "metadata_link": "https://arweave.net/vh-CZxiQi4BBWJU0vZps7nZ3xReMkcmrRjzLEWUz5Ts",
+      "onChain": true
+    }
+  }
+}
